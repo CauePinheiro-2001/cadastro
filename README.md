@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Utilize:<br />
+email: eu2021@gmail.com <br />
+senha : senha123 <br /> 
+Em: https://naughty-swartz-36a293.netlify.app/ <br />
+
 ## Available Scripts
 
 In the project directory, you can run:
